@@ -1,3 +1,3 @@
 # fun_fact_app_flutter
 
-A new Flutter project.
+A simple fun fact app
