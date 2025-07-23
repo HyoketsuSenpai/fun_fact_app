@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:fun_fact_app_flutter/model/Fact.dart';
+import 'package:fun_fact_app_flutter/model/fact.dart';
 import 'package:fun_fact_app_flutter/repositories/fun_fact_repo.dart';
 
 class HomeScreen extends StatefulWidget {

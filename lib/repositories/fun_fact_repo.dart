@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:fun_fact_app_flutter/model/Fact.dart';
+import 'package:fun_fact_app_flutter/model/fact.dart';
 import 'package:http/http.dart' as http;
 
 class FunFactRepository {
